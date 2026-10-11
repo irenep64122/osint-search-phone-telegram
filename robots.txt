@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irenep64122.github.io/osint-search-phone-telegram/sitemap.xml
